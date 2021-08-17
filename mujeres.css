@@ -1,0 +1,30 @@
+.nav{
+    position:fixed !important;
+    z-index:1 !important;
+    width:100%;
+}
+
+.btn{
+    background-color: rgb(255, 255, 255) !important;
+    border-style:none !important;
+    border-radius: 20px !important;
+    color: black !important;
+}
+
+.badge{
+    background-color:black !important;
+    color: rgb(255, 255, 255) !important;
+    border-radius: 20px !important;
+}
+
+.navbar-brand{
+    color:rgb(255, 255, 255) !important;
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 75px
+}
